@@ -93,7 +93,7 @@ try {
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/file-transfer-utils.git
+git clone https://github.com/DroneCodes/file-transfer-utils.git
 ```
 
 2. Build with Maven:
